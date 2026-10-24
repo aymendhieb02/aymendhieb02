@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="220" height="56" viewBox="0 0 220 56" role="img" aria-labelledby="title">
-<title id="title">PROJECT NOTES</title>
+<title id="title">PROJECTS</title>
 <defs>
  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#17233b"/></linearGradient>
  <radialGradient id="glow"><stop stop-color="#6ee7b7" stop-opacity=".19"/><stop offset="1" stop-color="#6ee7b7" stop-opacity="0"/></radialGradient>
  <linearGradient id="edge"><stop stop-color="#6ee7b7" stop-opacity=".75"/><stop offset="1" stop-color="#6ee7b7" stop-opacity=".12"/></linearGradient>
  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#b7c8ea" stroke-opacity=".045"/></pattern>
 </defs>
-<g font-family="Arial, Helvetica, sans-serif"><rect x="1" y="1" width="218" height="54" rx="13" fill="#101c30" stroke="#6ee7b7" stroke-opacity=".45"/><g fill="none" stroke="#6ee7b7" stroke-width="1.7"><rect x="20" y="16" width="19" height="23" rx="3"/><path d="M25 22H34M25 27H34M25 32H31"/></g><text x="54" y="34" fill="#6ee7b7" font-size="16" font-weight="700" letter-spacing="0.7" >PROJECT NOTES</text><path d="M191 32L201 22M191 22H201V32" fill="none" stroke="#6ee7b7" stroke-width="1.5"/></g>
+<g font-family="Arial, Helvetica, sans-serif"><rect x="1" y="1" width="218" height="54" rx="13" fill="#101c30" stroke="#6ee7b7" stroke-opacity=".45"/><g fill="none" stroke="#6ee7b7" stroke-width="1.7"><rect x="20" y="16" width="19" height="23" rx="3"/><path d="M25 22H34M25 27H34M25 32H31"/></g><text x="54" y="34" fill="#6ee7b7" font-size="16" font-weight="700" letter-spacing="0.7" >PROJECTS</text><path d="M191 32L201 22M191 22H201V32" fill="none" stroke="#6ee7b7" stroke-width="1.5"/></g>
 </svg>
