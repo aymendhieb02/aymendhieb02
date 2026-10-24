@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aymendhieb02/aymendhieb02/main/assets/profile-banner.svg?v=2" alt="Aymen Dhieb — Data Science and Applied AI" width="100%" />
+  <img src="./assets/profile-banner.svg?v=2" alt="Aymen Dhieb — Data Science and Applied AI" width="100%" />
 </p>
 
 <p align="center"><strong>Computer Engineering · Data Science & AI · ESPRIT · Tunisia</strong></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aymendhieb/"><img src="https://raw.githubusercontent.com/aymendhieb02/aymendhieb02/main/assets/contact-linkedin.svg" alt="Connect on LinkedIn" width="160" /></a>
-  <a href="mailto:aymen.dhieb@gmail.com"><img src="https://raw.githubusercontent.com/aymendhieb02/aymendhieb02/main/assets/contact-email.svg" alt="Send me an email" width="160" /></a>
-  <a href="https://github.com/aymendhieb02/aymendhieb02/blob/main/docs/PROJECTS.md"><img src="https://raw.githubusercontent.com/aymendhieb02/aymendhieb02/main/assets/contact-notes.svg" alt="Read project notes" width="160" /></a>
+  <a href="https://www.linkedin.com/in/aymendhieb/"><img src="./assets/contact-linkedin.svg" alt="Connect on LinkedIn" width="160" /></a>
+  <a href="mailto:aymen.dhieb@gmail.com"><img src="./assets/contact-email.svg" alt="Send me an email" width="160" /></a>
+  <a href="https://github.com/aymendhieb02/aymendhieb02/blob/main/docs/PROJECTS.md"><img src="./assets/contact-notes.svg" alt="Read project notes" width="160" /></a>
 </p>
 
 I build **machine learning and deep learning applications** across language, vision and document intelligence. My work connects data preparation, model evaluation, retrieval and agent orchestration with APIs and Docker delivery.
@@ -15,16 +15,16 @@ I build **machine learning and deep learning applications** across language, vis
 ## Selected work
 
 <p align="center">
-  <a href="https://github.com/aymendhieb02/bcmid"><img src="https://raw.githubusercontent.com/aymendhieb02/aymendhieb02/main/assets/project-bcmid.svg" alt="BCMID — Multimodal RAG with seven agent roles, FastAPI tools and evidence checks" width="49%" /></a>
-  <a href="https://github.com/aymendhieb02/DressMe"><img src="https://raw.githubusercontent.com/aymendhieb02/aymendhieb02/main/assets/project-dressme.svg" alt="DressMe — Deep learning garment classification; 0.8882 macro-F1 on 2,310 catalog validation images" width="49%" /></a>
+  <a href="https://github.com/aymendhieb02/bcmid"><img src="./assets/project-bcmid.svg" alt="BCMID — Multimodal RAG with seven agent roles, FastAPI tools and evidence checks" width="49%" /></a>
+  <a href="https://github.com/aymendhieb02/DressMe"><img src="./assets/project-dressme.svg" alt="DressMe — Deep learning garment classification; 0.8882 macro-F1 on 2,310 catalog validation images" width="49%" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/aymendhieb02/Smart-OCR-to-ERP-Platform"><img src="https://raw.githubusercontent.com/aymendhieb02/aymendhieb02/main/assets/project-ocr.svg" alt="Smart OCR — Document extraction, financial checks and Docker API delivery" width="49%" /></a>
-  <a href="https://github.com/aymendhieb02/tender-document-intelligence"><img src="https://raw.githubusercontent.com/aymendhieb02/aymendhieb02/main/assets/project-tender.svg" alt="Tender Intelligence — Source-linked requirements, document analysis and BOQ export" width="49%" /></a>
+  <a href="https://github.com/aymendhieb02/Smart-OCR-to-ERP-Platform"><img src="./assets/project-ocr.svg" alt="Smart OCR — Document extraction, financial checks and Docker API delivery" width="49%" /></a>
+  <a href="https://github.com/aymendhieb02/tender-document-intelligence"><img src="./assets/project-tender.svg" alt="Tender Intelligence — Source-linked requirements, document analysis and BOQ export" width="49%" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/aymendhieb02/onyX"><img src="https://raw.githubusercontent.com/aymendhieb02/aymendhieb02/main/assets/project-rag.svg" alt="Ask Your Document — Conversational RAG, ChromaDB, citations and Streamlit" width="49%" /></a>
-  <a href="https://github.com/aymendhieb02/onyX_hackathon_mario_hack_Intelligent_Stroke_Prediction_System"><img src="https://raw.githubusercontent.com/aymendhieb02/aymendhieb02/main/assets/project-ml.svg" alt="Tabular ML — Imbalanced stroke classification and ROC-AUC evaluation; competition prototype" width="49%" /></a>
+  <a href="https://github.com/aymendhieb02/onyX"><img src="./assets/project-rag.svg" alt="Ask Your Document — Conversational RAG, ChromaDB, citations and Streamlit" width="49%" /></a>
+  <a href="https://github.com/aymendhieb02/onyX_hackathon_mario_hack_Intelligent_Stroke_Prediction_System"><img src="./assets/project-ml.svg" alt="Tabular ML — Imbalanced stroke classification and ROC-AUC evaluation; competition prototype" width="49%" /></a>
 </p>
 
 <sub>DressMe: macro-F1 **0.8882** on **2,310 catalog validation images**. [Model card and evaluation scope](https://github.com/aymendhieb02/DressMe/blob/main/ml-service/bundle/model_card.md). BCMID and Stroke Prediction are research/educational prototypes.</sub>
@@ -48,7 +48,7 @@ I build **machine learning and deep learning applications** across language, vis
 ## Tools I use
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aymendhieb02/aymendhieb02/main/assets/toolbox.svg" alt="Machine learning: Python, PyTorch, scikit-learn, Transformers and PEFT/LoRA. Language and vision: Whisper, mBERT, PaddleOCR, OpenCV and MediaPipe. Retrieval and agents: LangGraph, n8n, ChromaDB, BM25/RRF, E5 and Ollama. Delivery: FastAPI, Docker, MLflow, Flask, Pydantic and SQL." width="100%" />
+  <img src="./assets/toolbox.svg" alt="Machine learning: Python, PyTorch, scikit-learn, Transformers and PEFT/LoRA. Language and vision: Whisper, mBERT, PaddleOCR, OpenCV and MediaPipe. Retrieval and agents: LangGraph, n8n, ChromaDB, BM25/RRF, E5 and Ollama. Delivery: FastAPI, Docker, MLflow, Flask, Pydantic and SQL." width="100%" />
 </p>
 
 <details>
